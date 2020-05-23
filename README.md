@@ -16,4 +16,4 @@ Yes. Technically, you're not sending the password itself. We're just sending the
 
 # Credits
 For more information, you can check this YouTube video:
-[https://www.youtube.com/watch?v=hhUb5iknVJs](Here)
+[Here](https://www.youtube.com/watch?v=hhUb5iknVJs)
